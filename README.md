@@ -1,1 +1,1 @@
-Ini adalah CV pertama saya
+MY CV
