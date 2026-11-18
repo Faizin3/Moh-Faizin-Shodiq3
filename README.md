@@ -1,1 +1,1 @@
-MY CV
+Informatics Engineering graduate from Universitas Muhammadiyah Surabaya (GPA 3.73/4.00) with hands-on experience in machine learning, web development, and IoT systems. Built a CNN-based industrial wastewater prediction system and a Reinforcement Learning navigation agent for UAVs. Eager to contribute to AI Engineering or Backend Development roles where applied ML and software skills can drive real impact.
